@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a herf="getlinkedIn.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=linkedin%20icon%20svg&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F81%2FLinkedIn_icon.svg%2F2048px-LinkedIn_icon.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&docid=SHUZVHiQtAectM&tbnid=LVclaDqPzRz-rM&vet=12ahUKEwjg-dPI2_uEAxXmk1YBHatID8EQM3oECBcQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjg-dPI2_uEAxXmk1YBHatID8EQM3oECBcQAA></img></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
